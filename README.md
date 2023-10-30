@@ -35,7 +35,7 @@ These headers include the following.
 
 
 # Usage - EML/MSG Formats
-It is required to save the first email recevied and have it supplied to NightOwl. The extension should be `.eml` or `.msg` for the NightOwl to work properly.
+It is required to save the first email recevied and have it supplied to MailHook. The extension should be `.eml` or `.msg` for the MailHook to work properly.
 
 The attachments will be stored automatically in `Attachments` folder.
 
